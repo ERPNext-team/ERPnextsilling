@@ -1,7 +1,7 @@
 {
  "app": "na",
  "charts": [],
- "content": "[{\"id\":\"6D1TkpV_V0\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Core Inventory</span>\",\"col\":12}},{\"id\":\"TkVX8DuN-0\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Warehouse\",\"col\":4}},{\"id\":\"aUTMO4cyZU\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"BOM\",\"col\":4}},{\"id\":\"dZ3rzm8wWd\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Stock Entry\",\"col\":4}},{\"id\":\"7_7E_IXTYh\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Purchase Order\",\"col\":6}},{\"id\":\"BiZuS-sCj7\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Purchase Receipt\",\"col\":6}},{\"id\":\"B-EktFCmFs\",\"type\":\"quick_list\",\"data\":{\"quick_list_name\":\"item\",\"col\":12}},{\"id\":\"p3HW69P4oI\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>gogo</b></span>\",\"col\":12}}]",
+ "content": "[{\"id\":\"6D1TkpV_V0\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Core Inventory</span>\",\"col\":12}},{\"id\":\"TkVX8DuN-0\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Warehouse\",\"col\":4}},{\"id\":\"aUTMO4cyZU\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"BOM\",\"col\":4}},{\"id\":\"dZ3rzm8wWd\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Stock Entry\",\"col\":4}},{\"id\":\"7_7E_IXTYh\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Purchase Order\",\"col\":6}},{\"id\":\"BiZuS-sCj7\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Purchase Receipt\",\"col\":6}},{\"id\":\"B-EktFCmFs\",\"type\":\"quick_list\",\"data\":{\"quick_list_name\":\"item\",\"col\":12}}]",
  "creation": "2025-11-02 17:55:52.114682",
  "custom_blocks": [],
  "docstatus": 0,
@@ -15,7 +15,7 @@
  "label": "Stock-management",
  "link_type": "DocType",
  "links": [],
- "modified": "2025-11-13 21:30:21.123603",
+ "modified": "2025-11-13 23:54:22.643865",
  "modified_by": "Administrator",
  "module": "ERPNext-sys",
  "name": "Stock-management",
