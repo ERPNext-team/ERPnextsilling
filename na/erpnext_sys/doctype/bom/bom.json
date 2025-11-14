@@ -1,6 +1,7 @@
 {
  "actions": [],
  "allow_import": 1,
+ "autoname": "format:{item}",
  "creation": "2013-01-22 15:11:38",
  "doctype": "DocType",
  "document_type": "Setup",
@@ -666,10 +667,11 @@
  "image_field": "image",
  "is_submittable": 1,
  "links": [],
- "modified": "2025-11-14 21:23:43.489749",
+ "modified": "2025-11-14 23:34:20.109708",
  "modified_by": "Administrator",
  "module": "ERPNext-sys",
  "name": "BOM",
+ "naming_rule": "Expression",
  "owner": "Administrator",
  "permissions": [
   {
