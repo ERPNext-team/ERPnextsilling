@@ -12,13 +12,13 @@
  "idx": 0,
  "indicator_color": "green",
  "is_hidden": 0,
- "label": "Stock-management",
+ "label": "\u0627\u0644\u0645\u062e\u0632\u0646",
  "link_type": "DocType",
  "links": [],
- "modified": "2025-11-13 23:54:22.643865",
+ "modified": "2025-11-14 15:49:34.724594",
  "modified_by": "Administrator",
  "module": "ERPNext-sys",
- "name": "Stock-management",
+ "name": "\u0627\u0644\u0645\u062e\u0632\u0646",
  "number_cards": [],
  "owner": "Administrator",
  "parent_page": "",
@@ -74,6 +74,6 @@
    "type": "DocType"
   }
  ],
- "title": "Stock-management",
+ "title": "\u0627\u0644\u0645\u062e\u0632\u0646",
  "type": "Workspace"
 }
