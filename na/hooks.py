@@ -5,6 +5,11 @@ app_description = "coffe 77"
 app_email = "alhraryahmed110@gmail.com"
 app_license = "mit"
 
+
+app_include_css = "/assets/na/css/custom_workspace.css"
+app_include_js = "/assets/na/js/custom_workspace.js"
+
+
 # Apps
 # ------------------
 
