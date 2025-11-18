@@ -9,31 +9,31 @@ app_license = "mit"
 app_include_css = "/assets/na/css/custom_workspace.css"
 app_include_js = "/assets/na/js/custom_workspace.js"
 
-fixtures = [
-    {"doctype": "Custom Field"},
+#fixtures = [
+   # {"doctype": "Custom Field"},
    # {"doctype": "Custom Script"},
-    {"doctype": "Property Setter"},
-    {"doctype": "Client Script"},
-    {"doctype": "Server Script"},
-    {"doctype": "Workspace"},
-    {"doctype": "Dashboard"},
-    {"doctype": "Dashboard Chart"},
-    {"doctype": "Notification"},
-    {"doctype": "Print Format"},
-    {"doctype": "Report"},
-    {"doctype": "Workflow"},
-    {"doctype": "Workflow State"},
-    {"doctype": "Workflow Action"},
-    {"doctype": "Web Page"},
-    {"doctype": "Web Form"},
-    {"doctype": "Custom HTML Block"},
-    {"doctype": "Translation"},
-    {"doctype": "DocType"},
-    {"doctype": "Role"},
-    {"doctype": "Role Permission for Page and Report"},
-    {"doctype": "System Settings"},
-    {"doctype": "Property Setter"},
-]
+   # {"doctype": "Property Setter"},
+   # {"doctype": "Client Script"},
+   # {"doctype": "Server Script"},
+  #  {"doctype": "Workspace"},
+   # {"doctype": "Dashboard"},
+   # {"doctype": "Dashboard Chart"},
+   # {"doctype": "Notification"},
+   # {"doctype": "Print Format"},
+   # {"doctype": "Report"},
+  #  {"doctype": "Workflow"},
+  #  {"doctype": "Workflow State"},
+  #  {"doctype": "Workflow Action"},
+  #  {"doctype": "Web Page"},
+  #  {"doctype": "Web Form"},
+  #  {"doctype": "Custom HTML Block"},
+  #  {"doctype": "Translation"},
+  #  {"doctype": "DocType"},
+  #  {"doctype": "Role"},
+  #  {"doctype": "Role Permission for Page and Report"},
+  #  {"doctype": "System Settings"},
+  #  {"doctype": "Property Setter"},
+#]
 
 # Apps
 # ------------------
