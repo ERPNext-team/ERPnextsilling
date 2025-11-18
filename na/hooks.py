@@ -9,6 +9,16 @@ app_license = "mit"
 app_include_css = "/assets/na/css/custom_workspace.css"
 app_include_js = "/assets/na/js/custom_workspace.js"
 
+fixtures = [
+    {"doctype": "Custom Field"},
+    {"doctype": "Client Script"},
+    {"doctype": "Workspace"},
+    {"doctype": "Report"},
+    {"doctype": "Workflow"},
+    {"doctype": "Workflow State"},
+    {"doctype": "Workflow Action"},
+    {"doctype": "Web Page"},
+]
 
 
 
@@ -23,7 +33,8 @@ app_include_js = "/assets/na/js/custom_workspace.js"
 # 		"name": "na",
 # 		"logo": "/assets/na/logo.png",
 # 		"title": "silling",
-# 		"route": "/na",
+# 		"route": "/na",fixtures = [
+
 # 		"has_permission": "na.api.permission.has_app_permission"
 # 	}
 # ]
