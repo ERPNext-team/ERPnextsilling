@@ -1,0 +1,100 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "format:{\u0627\u0644\u0639\u0646\u0648\u0627\u0646}",
+ "creation": "2025-11-18 23:03:15.999007",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "date",
+  "\u0627\u0644\u0639\u0646\u0648\u0627\u0646",
+  "source_of_funds",
+  "withdrawn_amount",
+  "items",
+  "get_shortage_items",
+  "amended_from"
+ ],
+ "fields": [
+  {
+   "fieldname": "amended_from",
+   "fieldtype": "Link",
+   "label": "Amended From",
+   "no_copy": 1,
+   "options": "Purchase Plan",
+   "print_hide": 1,
+   "read_only": 1,
+   "search_index": 1
+  },
+  {
+   "default": "Today",
+   "fieldname": "date",
+   "fieldtype": "Date",
+   "label": "Date",
+   "options": "Today"
+  },
+  {
+   "fieldname": "source_of_funds",
+   "fieldtype": "Link",
+   "label": "Source of Funds",
+   "no_copy": 1,
+   "options": "Account",
+   "print_hide": 1,
+   "search_index": 1
+  },
+  {
+   "fieldname": "withdrawn_amount",
+   "fieldtype": "Currency",
+   "label": "Withdrawn Amount"
+  },
+  {
+   "fieldname": "items",
+   "fieldtype": "Table",
+   "label": "Items",
+   "options": "purchase plan item"
+  },
+  {
+   "allow_in_quick_entry": 1,
+   "bold": 1,
+   "fieldname": "get_shortage_items",
+   "fieldtype": "Button",
+   "label": "Get Shortage Items"
+  },
+  {
+   "bold": 1,
+   "fieldname": "\u0627\u0644\u0639\u0646\u0648\u0627\u0646",
+   "fieldtype": "Data",
+   "label": "\u0631\u0642\u0645 \u0627\u0644\u0637\u0644\u0628\u064a\u0629",
+   "unique": 1
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "is_submittable": 1,
+ "links": [],
+ "modified": "2025-11-18 23:33:31.808195",
+ "modified_by": "Administrator",
+ "module": "ERPNext-sys",
+ "name": "Purchase Plan",
+ "naming_rule": "Expression",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "submit": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "rows_threshold_for_grid_search": 20,
+ "sort_field": "creation",
+ "sort_order": "DESC",
+ "states": []
+}

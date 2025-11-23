@@ -32,9 +32,14 @@ fixtures = [
 # 	{
 # 		"name": "na",
 # 		"logo": "/assets/na/logo.png",
+<<<<<<< HEAD
 # 		"title": "silling",
 # 		"route": "/na",fixtures = [
 
+=======
+# 		"title": "ERPNext-sys",
+# 		"route": "/na",
+>>>>>>> other/main
 # 		"has_permission": "na.api.permission.has_app_permission"
 # 	}
 # ]
