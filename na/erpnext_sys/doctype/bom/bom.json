@@ -1,5 +1,6 @@
 {
  "actions": [],
+ "allow_guest_to_view": 1,
  "allow_import": 1,
  "autoname": "format:{item}",
  "creation": "2013-01-22 15:11:38",
@@ -662,12 +663,13 @@
    "show_dashboard": 1
   }
  ],
+ "has_web_view": 1,
  "icon": "fa fa-sitemap",
  "idx": 1,
  "image_field": "image",
  "is_submittable": 1,
  "links": [],
- "modified": "2025-11-14 23:34:20.109708",
+ "modified": "2025-12-01 18:00:59.946562",
  "modified_by": "Administrator",
  "module": "ERPNext-sys",
  "name": "BOM",
