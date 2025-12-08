@@ -2,6 +2,17 @@
  {
   "docstatus": 0,
   "doctype": "Client Script",
+  "dt": "Workspace",
+  "enabled": 0,
+  "modified": "2025-12-07 17:20:30.988727",
+  "module": "ERPNext-sys",
+  "name": "تصميم Workspace",
+  "script": "frappe.ui.workspace['المخزن'] = {\r\n    title: __('المخزن'),\r\n    icon: 'octicon octicon-package',\r\n    color: '#4CAF50',\r\n    short_cuts: [\r\n        { type: 'doctype', name: 'Warehouse', label: __('المخازن'), color: '#FF9800', icon: 'octicon octicon-home' },\r\n        { type: 'doctype', name: 'Item', label: __('الأصناف'), color: '#03A9F4', icon: 'octicon octicon-box' },\r\n        { type: 'doctype', name: 'BOM', label: __('المواد المركبة'), color: '#9C27B0', icon: 'octicon octicon-gear' },\r\n        { type: 'doctype', name: 'Stock Entry', label: __('إدخال كمية للمخزن'), color: '#8BC34A', icon: 'octicon octicon-sync' },\r\n        { type: 'doctype', name: 'Purchase Order', label: __('أمر شراء'), color: '#FF5722', icon: 'octicon octicon-credit-card' },\r\n        { type: 'doctype', name: 'Purchase Request', label: __('طلب مواد'), color: '#00BCD4', icon: 'octicon octicon-list-unordered' }\r\n    ],\r\n    lists: [\r\n        {\r\n            doctype: 'Item',\r\n            title: __('جدول الأصناف'),\r\n            get_list: function() {\r\n                return frappe.db.get_list('Item', {\r\n                    fields: ['item_name','item_code','stock_uom','quantity'],\r\n                    limit_page_length: 10,\r\n                    order_by: 'modified desc'\r\n                });\r\n            }\r\n        },\r\n        {\r\n            doctype: 'Warehouse',\r\n            title: __('قائمة المخازن'),\r\n            get_list: function() {\r\n                return frappe.db.get_list('Warehouse', {\r\n                    fields: ['warehouse_name','company'],\r\n                    limit_page_length: 10,\r\n                    order_by: 'modified desc'\r\n                });\r\n            }\r\n        }\r\n    ]\r\n};\r\n",
+  "view": "Form"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Client Script",
   "dt": "taq_data1",
   "enabled": 1,
   "modified": "2025-10-31 21:30:41.238444",

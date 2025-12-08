@@ -10,7 +10,944 @@
   "is_standard": "Yes",
   "javascript": null,
   "json": null,
+  "letter_head": null,
+  "modified": "2020-06-24 17:16:50.639488",
+  "module": "Education",
+  "name": "Student and Guardian Contact Details",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Program Enrollment",
+  "reference_report": null,
+  "report_name": "Student and Guardian Contact Details",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "Instructor"
+   },
+   {
+    "role": "Academics User"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2020-06-24 17:15:15.477530",
+  "module": "Education",
+  "name": "Course wise Assessment Report",
+  "prepared_report": 0,
+  "query": "",
+  "ref_doctype": "Assessment Result",
+  "reference_report": null,
+  "report_name": "Course wise Assessment Report",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "Instructor"
+   },
+   {
+    "role": "Education Manager"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2020-06-24 17:16:02.027410",
+  "module": "Education",
+  "name": "Assessment Plan Status",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Assessment Plan",
+  "reference_report": null,
+  "report_name": "Assessment Plan Status",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "Academics User"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2020-06-24 17:13:35.373756",
+  "module": "Education",
+  "name": "Final Assessment Grades",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Assessment Result",
+  "reference_report": null,
+  "report_name": "Final Assessment Grades",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "Instructor"
+   },
+   {
+    "role": "Education Manager"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 1,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2018-02-22 13:33:41.532005",
+  "module": "HR",
+  "name": "Employee Advance Summary",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Employee Advance",
+  "reference_report": null,
+  "report_name": "Employee Advance Summary",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "Employee"
+   },
+   {
+    "role": "Expense Approver"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2018-06-04 10:44:04.694509",
+  "module": "HR",
+  "name": "Daily Work Summary Replies",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Daily Work Summary",
+  "reference_report": null,
+  "report_name": "Daily Work Summary Replies",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "Employee"
+   },
+   {
+    "role": "HR User"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2020-05-28 00:08:08.097494",
+  "module": "Payroll",
+  "name": "Bank Remittance",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Payroll Entry",
+  "reference_report": null,
+  "report_name": "Bank Remittance",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "HR Manager"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2019-09-06 11:18:06.209397",
+  "module": "HR",
+  "name": "Employee Leave Balance Summary",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Employee",
+  "reference_report": null,
+  "report_name": "Employee Leave Balance Summary",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "Employee"
+   },
+   {
+    "role": "HR Manager"
+   },
+   {
+    "role": "HR User"
+   },
+   {
+    "role": "Leave Approver"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2020-05-12 13:52:50.631086",
+  "module": "HR",
+  "name": "Employee Analytics",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Employee",
+  "reference_report": null,
+  "report_name": "Employee Analytics",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "Employee"
+   },
+   {
+    "role": "HR User"
+   },
+   {
+    "role": "HR Manager"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2020-05-14 16:28:45.743869",
+  "module": "HR",
+  "name": "Recruitment Analytics",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Staffing Plan",
+  "reference_report": null,
+  "report_name": "Recruitment Analytics",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "HR Manager"
+   },
+   {
+    "role": "HR User"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2023-11-16 20:58:59.156949",
+  "module": "Payroll",
+  "name": "Income Tax Deductions",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Salary Slip",
+  "reference_report": null,
+  "report_name": "Income Tax Deductions",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "HR User"
+   },
+   {
+    "role": "HR Manager"
+   },
+   {
+    "role": "Employee"
+   },
+   {
+    "role": "Employee Self Service"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2022-06-26 18:54:19.305763",
+  "module": "Payroll",
+  "name": "Provident Fund Deductions",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Salary Slip",
+  "reference_report": null,
+  "report_name": "Provident Fund Deductions",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2022-06-26 19:02:26.306348",
+  "module": "Payroll",
+  "name": "Professional Tax Deductions",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Salary Slip",
+  "reference_report": null,
+  "report_name": "Professional Tax Deductions",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2020-06-16 18:38:23.680185",
+  "module": "Payroll",
+  "name": "Salary Payments via ECS",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Salary Slip",
+  "reference_report": null,
+  "report_name": "Salary Payments via ECS",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "HR Manager"
+   },
+   {
+    "role": "HR User"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2020-06-16 18:43:43.107246",
+  "module": "Payroll",
+  "name": "Salary Payments Based On Payment Mode",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Salary Slip",
+  "reference_report": null,
+  "report_name": "Salary Payments Based On Payment Mode",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "HR User"
+   },
+   {
+    "role": "HR Manager"
+   },
+   {
+    "role": "Employee"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 1,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": "{}",
+  "letter_head": null,
+  "modified": "2020-08-05 14:14:12.410515",
+  "module": "Education",
+  "name": "Program wise Fee Collection",
+  "prepared_report": 0,
+  "query": "SELECT \n    FeesCollected.program AS \"Program:Link/Program:200\",\n    FeesCollected.paid_amount AS \"Fees Collected:Currency:150\",\n    FeesCollected.outstanding_amount AS \"Outstanding Amount:Currency:150\",\n    FeesCollected.grand_total \"Grand Total:Currency:150\"\nFROM (\n    SELECT \n        sum(grand_total) - sum(outstanding_amount) AS paid_amount, program,\n        sum(outstanding_amount) AS outstanding_amount,\n        sum(grand_total) AS grand_total\n    FROM `tabFees`\n    WHERE docstatus = 1\n    GROUP BY program\n) AS FeesCollected\nORDER BY FeesCollected.paid_amount DESC",
+  "ref_doctype": "Fees",
+  "reference_report": null,
+  "report_name": "Program wise Fee Collection",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "Academics User"
+   },
+   {
+    "role": "Accounts User"
+   },
+   {
+    "role": "Accounts Manager"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2022-06-23 20:11:16.295495",
+  "module": "HR",
+  "name": "Employee Hours Utilization Based On Timesheet",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Timesheet",
+  "reference_report": null,
+  "report_name": "Employee Hours Utilization Based On Timesheet",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "HR User"
+   },
+   {
+    "role": "HR Manager"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2022-06-23 15:50:48.490866",
+  "module": "HR",
+  "name": "Project Profitability",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Timesheet",
+  "reference_report": null,
+  "report_name": "Project Profitability",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "HR User"
+   },
+   {
+    "role": "Accounts User"
+   },
+   {
+    "role": "Employee"
+   },
+   {
+    "role": "Projects User"
+   },
+   {
+    "role": "Manufacturing User"
+   },
+   {
+    "role": "Employee Self Service"
+   },
+   {
+    "role": "HR Manager"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": "Test",
+  "modified": "2021-12-05 19:47:18.332319",
+  "module": "HR",
+  "name": "Employee Exits",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Exit Interview",
+  "reference_report": null,
+  "report_name": "Employee Exits",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "System Manager"
+   },
+   {
+    "role": "HR Manager"
+   },
+   {
+    "role": "HR User"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
   "letter_head": "",
+  "modified": "2022-02-23 13:07:30.347861",
+  "module": "Payroll",
+  "name": "Income Tax Computation",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Salary Slip",
+  "reference_report": null,
+  "report_name": "Income Tax Computation",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "Employee"
+   },
+   {
+    "role": "HR User"
+   },
+   {
+    "role": "HR Manager"
+   },
+   {
+    "role": "Employee Self Service"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2023-03-30 18:50:42.394262",
+  "module": "HR",
+  "name": "Appraisal Overview",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Appraisal",
+  "reference_report": "",
+  "report_name": "Appraisal Overview",
+  "report_script": "",
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "Employee"
+   },
+   {
+    "role": "System Manager"
+   },
+   {
+    "role": "HR User"
+   },
+   {
+    "role": "Employee Self Service"
+   },
+   {
+    "role": "HR Manager"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2023-08-04 11:29:44.327488",
+  "module": "HR",
+  "name": "Shift Attendance",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Attendance",
+  "reference_report": null,
+  "report_name": "Shift Attendance",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "HR User"
+   },
+   {
+    "role": "System Manager"
+   },
+   {
+    "role": "HR Manager"
+   },
+   {
+    "role": "Employee Self Service"
+   },
+   {
+    "role": "Employee"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": "Frappe",
+  "modified": "2024-04-07 14:46:16.056637",
+  "module": "HR",
+  "name": "Leave Ledger",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Leave Ledger Entry",
+  "reference_report": null,
+  "report_name": "Leave Ledger",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "System Manager"
+   },
+   {
+    "role": "HR Manager"
+   },
+   {
+    "role": "HR User"
+   },
+   {
+    "role": "Employee"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": "{}",
+  "letter_head": null,
+  "modified": "2025-08-22 17:55:48.952251",
+  "module": "Manufacturing",
+  "name": "Material Requirements Planning Report",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Master Production Schedule",
+  "reference_report": null,
+  "report_name": "Material Requirements Planning Report",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "System Manager"
+   },
+   {
+    "role": "Manufacturing Manager"
+   },
+   {
+    "role": "Manufacturing User"
+   },
+   {
+    "role": "Purchase Manager"
+   },
+   {
+    "role": "Purchase User"
+   },
+   {
+    "role": "Stock User"
+   },
+   {
+    "role": "Stock Manager"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2025-08-30 15:57:04.044724",
+  "module": "Payroll",
+  "name": "Accrued Earnings Report",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Employee Benefit Ledger",
+  "reference_report": null,
+  "report_name": "Accrued Earnings Report",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "System Manager"
+   },
+   {
+    "role": "HR Manager"
+   },
+   {
+    "role": "HR User"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2025-09-03 00:53:22.230646",
+  "module": "Accounts",
+  "name": "Consolidated Trial Balance",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "GL Entry",
+  "reference_report": null,
+  "report_name": "Consolidated Trial Balance",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "Accounts User"
+   },
+   {
+    "role": "Accounts Manager"
+   },
+   {
+    "role": "Auditor"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2025-10-03 01:21:24.043064",
+  "module": "Accounts",
+  "name": "Custom Financial Statement",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "GL Entry",
+  "reference_report": null,
+  "report_name": "Custom Financial Statement",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "Accounts User"
+   },
+   {
+    "role": "Accounts Manager"
+   },
+   {
+    "role": "Auditor"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
   "modified": "2017-06-23 04:46:43.209008",
   "module": "Manufacturing",
   "name": "BOM Stock Report",
@@ -42,7 +979,7 @@
   "is_standard": "Yes",
   "javascript": null,
   "json": null,
-  "letter_head": "",
+  "letter_head": null,
   "modified": "2018-02-13 04:47:04.158213",
   "module": "Manufacturing",
   "name": "Work Order Stock Report",
@@ -144,7 +1081,7 @@
   "is_standard": "Yes",
   "javascript": null,
   "json": null,
-  "letter_head": "",
+  "letter_head": null,
   "modified": "2017-04-17 00:45:10.139004",
   "module": "CRM",
   "name": "Lead Owner Efficiency",
@@ -217,7 +1154,7 @@
   "is_standard": "Yes",
   "javascript": null,
   "json": null,
-  "letter_head": "",
+  "letter_head": null,
   "modified": "2017-07-13 17:14:40.408706",
   "module": "Support",
   "name": "Support Hour Distribution",
@@ -585,7 +1522,7 @@
   "is_standard": "Yes",
   "javascript": null,
   "json": null,
-  "letter_head": "",
+  "letter_head": null,
   "modified": "2018-06-18 13:33:18.103220",
   "module": "Manufacturing",
   "name": "BOM Stock Calculated",
@@ -836,7 +1773,7 @@
   "is_standard": "Yes",
   "javascript": null,
   "json": null,
-  "letter_head": "",
+  "letter_head": null,
   "modified": "2019-01-17 08:30:41.863572",
   "module": "Regional",
   "name": "IRS 1099",
@@ -970,7 +1907,7 @@
   "is_standard": "Yes",
   "javascript": null,
   "json": null,
-  "letter_head": "",
+  "letter_head": null,
   "modified": "2019-02-12 14:32:16.392521",
   "module": "Manufacturing",
   "name": "Production Analytics",
@@ -1742,7 +2679,7 @@
   "is_standard": "Yes",
   "javascript": null,
   "json": null,
-  "letter_head": "",
+  "letter_head": null,
   "modified": "2019-06-17 12:45:07.324014",
   "module": "Stock",
   "name": "Delayed Item Report",
@@ -1783,7 +2720,7 @@
   "is_standard": "Yes",
   "javascript": null,
   "json": null,
-  "letter_head": "",
+  "letter_head": null,
   "modified": "2019-06-17 12:45:56.359322",
   "module": "Stock",
   "name": "Delayed Order Report",
@@ -1856,7 +2793,7 @@
   "is_standard": "Yes",
   "javascript": null,
   "json": null,
-  "letter_head": "",
+  "letter_head": null,
   "modified": "2020-01-09 14:42:45.254751",
   "module": "Stock",
   "name": "Stock and Account Value Comparison",
@@ -1920,7 +2857,7 @@
   "is_standard": "Yes",
   "javascript": null,
   "json": null,
-  "letter_head": "",
+  "letter_head": null,
   "modified": "2022-01-20 14:21:47.771591",
   "module": "Manufacturing",
   "name": "BOM Operations Time",
@@ -1952,7 +2889,7 @@
   "is_standard": "Yes",
   "javascript": null,
   "json": null,
-  "letter_head": "",
+  "letter_head": null,
   "modified": "2020-03-06 11:38:05.789851",
   "module": "Manufacturing",
   "name": "Production Planning Report",
@@ -2019,7 +2956,7 @@
   "is_standard": "Yes",
   "javascript": null,
   "json": null,
-  "letter_head": "Gadgets International",
+  "letter_head": null,
   "modified": "2020-04-19 16:59:47.979278",
   "module": "Manufacturing",
   "name": "Work Order Summary",
@@ -2054,7 +2991,7 @@
   "is_standard": "Yes",
   "javascript": null,
   "json": null,
-  "letter_head": "",
+  "letter_head": null,
   "modified": "2020-12-30 11:49:21.713561",
   "module": "Manufacturing",
   "name": "Job Card Summary",
@@ -2092,7 +3029,7 @@
   "is_standard": "Yes",
   "javascript": null,
   "json": null,
-  "letter_head": "Gadgets International",
+  "letter_head": null,
   "modified": "2020-04-20 18:26:04.345289",
   "module": "Manufacturing",
   "name": "Downtime Analysis",
@@ -2127,7 +3064,7 @@
   "is_standard": "Yes",
   "javascript": null,
   "json": "{}",
-  "letter_head": "Gadgets International",
+  "letter_head": null,
   "modified": "2020-04-26 18:24:50.529940",
   "module": "Manufacturing",
   "name": "Quality Inspection Summary",
@@ -2232,7 +3169,7 @@
   "is_standard": "Yes",
   "javascript": null,
   "json": null,
-  "letter_head": "",
+  "letter_head": null,
   "modified": "2020-05-15 05:18:55.838030",
   "module": "Manufacturing",
   "name": "Exponential Smoothing Forecasting",
@@ -2378,7 +3315,7 @@
   "is_standard": "Yes",
   "javascript": null,
   "json": null,
-  "letter_head": "Test 2",
+  "letter_head": null,
   "modified": "2020-08-10 18:12:42.391224",
   "module": "Support",
   "name": "First Response Time for Issues",
@@ -2407,7 +3344,7 @@
   "is_standard": "Yes",
   "javascript": null,
   "json": null,
-  "letter_head": "Test 2",
+  "letter_head": null,
   "modified": "2020-08-10 18:34:19.083872",
   "module": "CRM",
   "name": "First Response Time for Opportunity",
@@ -3012,7 +3949,7 @@
   "is_standard": "Yes",
   "javascript": null,
   "json": null,
-  "letter_head": "Gadgets International",
+  "letter_head": null,
   "modified": "2021-11-22 17:36:14.999091",
   "module": "Manufacturing",
   "name": "Work Order Consumed Materials",
@@ -3149,7 +4086,7 @@
   "is_standard": "Yes",
   "javascript": null,
   "json": null,
-  "letter_head": "abc",
+  "letter_head": null,
   "modified": "2022-05-11 04:09:20.232177",
   "module": "Stock",
   "name": "FIFO Queue vs Qty After Transaction Comparison",
@@ -3274,7 +4211,7 @@
   "is_standard": "Yes",
   "javascript": null,
   "json": null,
-  "letter_head": "",
+  "letter_head": null,
   "modified": "2023-01-31 14:53:37.778576",
   "module": "Custom",
   "name": "Audit System Hooks",
@@ -3303,7 +4240,7 @@
   "is_standard": "Yes",
   "javascript": null,
   "json": "{}",
-  "letter_head": "LetterHead",
+  "letter_head": null,
   "modified": "2023-06-27 16:40:32.493725",
   "module": "Accounts",
   "name": "Voucher-wise Balance",
@@ -3544,7 +4481,7 @@
   "is_standard": "Yes",
   "javascript": null,
   "json": null,
-  "letter_head": "ALYF GmbH",
+  "letter_head": null,
   "modified": "2023-10-11 00:58:30.639078",
   "module": "Projects",
   "name": "Timesheet Billing Summary",
@@ -3620,7 +4557,7 @@
   "is_standard": "Yes",
   "javascript": null,
   "json": "{}",
-  "letter_head": "",
+  "letter_head": null,
   "modified": "2024-04-23 17:18:19.779036",
   "module": "Stock",
   "name": "Available Batch Report",
@@ -3767,7 +4704,7 @@
   "is_standard": "Yes",
   "javascript": null,
   "json": "{}",
-  "letter_head": "Test",
+  "letter_head": null,
   "modified": "2025-02-03 15:39:47.613040",
   "module": "Stock",
   "name": "Incorrect Serial and Batch Bundle",
@@ -3855,7 +4792,7 @@
   "is_standard": "Yes",
   "javascript": null,
   "json": null,
-  "letter_head": "",
+  "letter_head": null,
   "modified": "2025-06-06 18:09:18.221911",
   "module": "Accounts",
   "name": "Calculated Discount Mismatch",
@@ -5376,7 +6313,7 @@
   "timeout": 0
  },
  {
-  "add_total_row": 1,
+  "add_total_row": 0,
   "add_translate_data": 0,
   "columns": [],
   "disabled": 0,
@@ -5414,7 +6351,7 @@
   "timeout": 0
  },
  {
-  "add_total_row": 1,
+  "add_total_row": 0,
   "add_translate_data": 0,
   "columns": [],
   "disabled": 0,
@@ -5452,7 +6389,7 @@
   "timeout": 0
  },
  {
-  "add_total_row": 1,
+  "add_total_row": 0,
   "add_translate_data": 0,
   "columns": [],
   "disabled": 0,
@@ -5493,7 +6430,7 @@
   "timeout": 0
  },
  {
-  "add_total_row": 1,
+  "add_total_row": 0,
   "add_translate_data": 0,
   "columns": [],
   "disabled": 0,
@@ -5528,7 +6465,7 @@
   "timeout": 0
  },
  {
-  "add_total_row": 1,
+  "add_total_row": 0,
   "add_translate_data": 0,
   "columns": [],
   "disabled": 0,
@@ -5566,7 +6503,7 @@
   "timeout": 0
  },
  {
-  "add_total_row": 1,
+  "add_total_row": 0,
   "add_translate_data": 0,
   "columns": [],
   "disabled": 0,
@@ -6270,7 +7207,7 @@
   "timeout": 0
  },
  {
-  "add_total_row": 1,
+  "add_total_row": 0,
   "add_translate_data": 0,
   "columns": [],
   "disabled": 0,
@@ -6407,7 +7344,7 @@
   "timeout": 0
  },
  {
-  "add_total_row": 1,
+  "add_total_row": 0,
   "add_translate_data": 0,
   "columns": [],
   "disabled": 0,
@@ -6571,6 +7508,390 @@
   "roles": [
    {
     "role": "Accounts User"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2017-02-24 20:05:17.833885",
+  "module": "HR",
+  "name": "Employees working on a holiday",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Attendance",
+  "reference_report": null,
+  "report_name": "Employees working on a holiday",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "System Manager"
+   },
+   {
+    "role": "HR User"
+   },
+   {
+    "role": "HR Manager"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 1,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2021-05-16 22:48:22.767535",
+  "module": "HR",
+  "name": "Vehicle Expenses",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Vehicle",
+  "reference_report": null,
+  "report_name": "Vehicle Expenses",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "Fleet Manager"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2020-06-24 17:16:59.823709",
+  "module": "Education",
+  "name": "Student Batch-Wise Attendance",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Student Attendance",
+  "reference_report": null,
+  "report_name": "Student Batch-Wise Attendance",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "Academics User"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2022-06-23 19:59:29.747039",
+  "module": "HR",
+  "name": "Unpaid Expense Claim",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Expense Claim",
+  "reference_report": null,
+  "report_name": "Unpaid Expense Claim",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "HR Manager"
+   },
+   {
+    "role": "Expense Approver"
+   },
+   {
+    "role": "HR User"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 1,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2020-05-28 00:07:18.576661",
+  "module": "Payroll",
+  "name": "Salary Register",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Salary Slip",
+  "reference_report": null,
+  "report_name": "Salary Register",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "HR User"
+   },
+   {
+    "role": "HR Manager"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2023-11-17 13:28:40.669200",
+  "module": "HR",
+  "name": "Employee Leave Balance",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Employee",
+  "reference_report": null,
+  "report_name": "Employee Leave Balance",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "HR User"
+   },
+   {
+    "role": "HR Manager"
+   },
+   {
+    "role": "Employee"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2017-02-24 20:18:13.011024",
+  "module": "HR",
+  "name": "Employee Birthday",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Employee",
+  "reference_report": null,
+  "report_name": "Employee Birthday",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "Employee"
+   },
+   {
+    "role": "HR User"
+   },
+   {
+    "role": "HR Manager"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": "{\"add_total_row\": 0, \"sort_by\": \"Employee.bank_ac_no\", \"sort_order\": \"desc\", \"sort_by_next\": \"\", \"filters\": [], \"sort_order_next\": \"desc\", \"columns\": [[\"name\", \"Employee\"], [\"employee_number\", \"Employee\"], [\"date_of_joining\", \"Employee\"], [\"branch\", \"Employee\"], [\"department\", \"Employee\"], [\"designation\", \"Employee\"], [\"gender\", \"Employee\"], [\"status\", \"Employee\"], [\"company\", \"Employee\"], [\"employment_type\", \"Employee\"], [\"reports_to\", \"Employee\"], [\"company_email\", \"Employee\"]]}",
+  "letter_head": null,
+  "modified": "2017-02-24 20:01:38.681441",
+  "module": "HR",
+  "name": "Employee Information",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Employee",
+  "reference_report": null,
+  "report_name": "Employee Information",
+  "report_script": null,
+  "report_type": "Report Builder",
+  "roles": [
+   {
+    "role": "HR User"
+   },
+   {
+    "role": "HR Manager"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2020-06-24 17:16:40.251116",
+  "module": "Education",
+  "name": "Absent Student Report",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Student Attendance",
+  "reference_report": null,
+  "report_name": "Absent Student Report",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "Academics User"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2017-02-24 20:16:50.550242",
+  "module": "HR",
+  "name": "Monthly Attendance Sheet",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Attendance",
+  "reference_report": null,
+  "report_name": "Monthly Attendance Sheet",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "System Manager"
+   },
+   {
+    "role": "HR User"
+   },
+   {
+    "role": "HR Manager"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2020-06-24 17:16:13.307053",
+  "module": "Education",
+  "name": "Student Monthly Attendance Sheet",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Student Attendance",
+  "reference_report": null,
+  "report_name": "Student Monthly Attendance Sheet",
+  "report_script": null,
+  "report_type": "Script Report",
+  "roles": [
+   {
+    "role": "Academics User"
+   }
+  ],
+  "timeout": 0
+ },
+ {
+  "add_total_row": 1,
+  "add_translate_data": 0,
+  "columns": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "Yes",
+  "javascript": null,
+  "json": null,
+  "letter_head": null,
+  "modified": "2024-05-27 10:14:40.352247",
+  "module": "Education",
+  "name": "Student Fee Collection",
+  "prepared_report": 0,
+  "query": "SELECT\n student as \"Student:Link/Student:200\",\n student.student_name as \"Student Name:Data:150\",\n sum(grand_total) - sum(outstanding_amount) as \"Paid Amount:Currency:150\",\n sum(outstanding_amount) as \"Outstanding Amount:Currency:150\",\n sum(grand_total) as \"Grand Total:Currency:150\"\nFROM\n `tabSales Invoice`\nJOIN\n `tabStudent` as student\nON\n student.name = `tabSales Invoice`.student\nWHERE\n `tabSales Invoice`.docstatus=1\nAND\n `tabSales Invoice`.student IS NOT NULL\nGROUP BY\n `tabSales Invoice`.student",
+  "ref_doctype": "Fees",
+  "reference_report": null,
+  "report_name": "Student Fee Collection",
+  "report_script": null,
+  "report_type": "Query Report",
+  "roles": [
+   {
+    "role": "Academics User"
    }
   ],
   "timeout": 0

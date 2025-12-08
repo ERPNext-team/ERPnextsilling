@@ -11,7 +11,7 @@ app_include_js = "/assets/na/js/custom_workspace.js"
 fixtures = [
     {"doctype": "Custom Field"},
     {"doctype": "Client Script"},
-    {"doctype": "Workspace"},
+    #{"doctype": "Workspace"},
     {"doctype": "Report"},
     {"doctype": "Workflow"},
     {"doctype": "Workflow State"},
