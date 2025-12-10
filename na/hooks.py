@@ -12,6 +12,7 @@ fixtures = [
     {"doctype": "Custom Field"},
     {"doctype": "Client Script"},
     #{"doctype": "Workspace"},
+    {"doctype": "Custom HTML Block"},
     {"doctype": "Report"},
     {"doctype": "Workflow"},
     {"doctype": "Workflow State"},
